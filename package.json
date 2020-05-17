@@ -1,5 +1,5 @@
 {
-  "name": "tiniloc",
+  "name": "tinyloc",
   "description": "A simple service locator container based on Proxy",
   "keywords": [
     "service",
