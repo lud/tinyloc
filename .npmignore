@@ -1,0 +1,11 @@
+tests
+node_modules
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitignore
+.prettierrc
+jest.config.js
+tsconfig.json
+tsconfig.release.json
+yarn.lock
