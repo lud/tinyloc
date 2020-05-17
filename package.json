@@ -1,6 +1,5 @@
 {
   "name": "tiniloc",
-  "version": "1.0.0",
   "description": "A simple service locator container based on Proxy",
   "keywords": [
     "service",
@@ -36,5 +35,6 @@
     "test:watch": "jest --"
   },
   "author": "Ludovic Demblans <ludovic@demblans.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "version": "1.0.0"
 }
